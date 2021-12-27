@@ -1,11 +1,8 @@
 libcef.dll
-altv-server.exe
-altv-server
 data
 modules
 resources/default/dist
 .vscode
-*.exe
 update.json
 *.log
 cache/

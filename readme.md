@@ -17,5 +17,5 @@ It features will include, but won't limit to:
 All systems will be designed to be dynamic, this means that all kind of changes will be able to be done in-game, withouth the coding need.
 
 Contributors/third party systems:
-ALT:V team: https://altv.mp/#/
-Chat system: https://github.com/altmp/altv-example-resources
+- ALT:V team: https://altv.mp/#/
+- Chat system: https://github.com/altmp/altv-example-resources

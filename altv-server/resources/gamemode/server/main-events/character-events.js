@@ -1,8 +1,10 @@
 import alt from 'alt-server';
+import * as chat from '../chat';
 
 const handleConnect = player => {
   player.spawn(-1291.71, 83.43, 54.89, 1000); // Spawns after 1 second.
   player.model = `mp_m_freemode_01`;
+  chat.broadcast(`==> ${player.name} has joined.`);
 }
 
 export const deadPlayers = {};
